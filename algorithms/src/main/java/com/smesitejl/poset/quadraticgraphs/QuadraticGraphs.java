@@ -1,4 +1,4 @@
-package com.smesitejl.poset;
+package com.smesitejl.poset.quadraticgraphs;
 
 import java.io.*;
 import java.util.*;

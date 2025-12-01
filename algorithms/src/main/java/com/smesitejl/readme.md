@@ -10,16 +10,14 @@
 
 ## 📂 Структура проекта
 
-├─ basic
-├─ cryptography
-├─ dynamic
-├─ geometry
-├─ graph
-├─ greedy
-├─ numbertheory
-└─ poset
-
-
+├─ basic<br>
+├─ cryptography <br>
+├─ dynamic<br>
+├─ geometry<br>
+├─ graph<br>
+├─ greedy<br>
+├─ numbertheory<br>
+└─ poset<br>
 
 Ниже приведено описание каждого раздела и перечень реализованных в нём задач.
 

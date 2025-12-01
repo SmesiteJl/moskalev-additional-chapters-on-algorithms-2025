@@ -1,4 +1,4 @@
-package com.smesitejl.poset;
+package com.smesitejl.poset.loggraphs;
 
 import java.io.*;
 import java.util.*;

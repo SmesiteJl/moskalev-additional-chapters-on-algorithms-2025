@@ -1,4 +1,4 @@
-package com.smesitejl.greedy;
+package com.smesitejl.greedy.hotel;
 
 import java.io.*;
 import java.util.*;
