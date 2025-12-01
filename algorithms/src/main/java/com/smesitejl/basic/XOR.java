@@ -1,4 +1,4 @@
-package com.smesitejl.lesson1;
+package com.smesitejl.basic;
 
 public class XOR {
     public static void main(String[] args) {

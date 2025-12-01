@@ -1,4 +1,4 @@
-package com.smesitejl.lesson1;
+package com.smesitejl.basic;
 
 import javax.swing.*;
 import java.awt.*;

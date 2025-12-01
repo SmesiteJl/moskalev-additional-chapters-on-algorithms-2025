@@ -1,4 +1,4 @@
-package com.smesitejl.lesson1;
+package com.smesitejl.basic;
 
 import java.util.Random;
 import javax.swing.JFrame;

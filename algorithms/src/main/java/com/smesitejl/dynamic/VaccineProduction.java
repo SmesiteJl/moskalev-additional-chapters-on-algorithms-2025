@@ -1,4 +1,4 @@
-package com.smesitejl.lesson2.vaccine;
+package com.smesitejl.dynamic;
 
 import java.util.*;
 

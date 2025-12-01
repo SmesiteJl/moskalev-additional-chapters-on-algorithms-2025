@@ -1,4 +1,4 @@
-package com.smesitejl.lesson2.lcs;
+package com.smesitejl.dynamic;
 
 import java.util.*;
 
